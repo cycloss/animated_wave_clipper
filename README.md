@@ -2,6 +2,8 @@
 
 A simple clipper with an animated wave.
 
+![image](image/demo.gif)
+
 ## Example
 
 ```dart
